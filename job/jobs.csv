@@ -1,0 +1,85 @@
+id_job,id_origin,entreprise,job_title,type,place,date_application,date_refus
+0,3,Seyos,Data Analyst / Scientist,CDI,Nantes,28-07-2024,19-08-2024
+1,4,AMD,AI/ML Developer,CDI,Data Scientist,29-07-2024,19-08-2024
+2,1,ALTEN,Data Management,VIE,Germany,19-07-2024,19-08-2024
+3,0,BNP Paribas,Data Engineer,CDI,Nantes,14-08-2024,17-08-2024
+4,5,BNP Paribas,Model Risk Analyst,VIE,madrid,25-07-2024,27-07-2024
+5,5,BNP Paribas,Machine Learning Engineer,VIE,madrid,04-08-2024,06-09-2024
+6,4,Owkin,Data Scientist I,CDI,Nantes,05-07-2024,30-07-2024
+7,0,Devoteam A Cloud,Machine Learning Engineer,CDI,Nantes,07-07-2024,
+8,4,SII,Data Scientist,CDI,Nantes,07-07-2024,
+9,3,Externatic,Data Scientist/IA,CDI,Nantes,07-07-2024,
+10,4,Crédit Agricole,Data Scientist,CDI,Nantes,08-07-2024,25-07-2024
+11,0,Toon Boom Animation,Senior Machine Learning Developer,CDI,Nantes,15-07-2024,16-07-2024
+12,4,Spherea,Data Scientist,CDI,Nantes,19-07-2024,20-09-2024
+13,4,Microsoft,Applied Data Scientist,CDI,Nantes,19-07-2024,25-07-2024
+14,4,Papernest,Data Engineer,VIE,Barcelone,25-07-2024,02-08-2024
+15,4,Qlik,AI Platform Software Engineer (ML/LLM),CDI,Nantes,28-07-2024,
+16,0,CWP Energy,Data Scientist,CDI,Nantes,28-07-2024,
+17,0,Zipcar,Data Scientist,CDI,Boston,28-07-2024,18-09-2024
+18,4,Stripe,Data Scientist,CDI,Nantes,28-07-2024,11-10-2024
+19,4,BPCE,Data Engineer,CDI,Nantes,12-08-2024,
+20,0,BNP Paribas,Data Engineer,CDI,Nantes,14-08-2024,17-08-2024
+21,1,EURANOVA,Consulting,CDI,Belgique,14-08-2024,30-08-2024
+22,0,Valeuriad,Data Scientist,CDI,Nantes,23-08-2024,03-09-2024
+23,0,Exakis Elite,Développeur en IA,CDI,Nantes,02-09-2024,
+24,4,BPCE,Data Engineer,CDI,Nantes,02-09-2024,
+25,0,Cellenza,Consultant Data Scientist,CDI,Nantes,02-09-2024,
+26,1,Jems,Consultant,CDI,Nantes,03-09-2024,15-09-2024
+27,3,Davidson Consulting,Data Scientist,CDI,Nantes,04-09-2024,
+28,3,Alteca,Data Scientist,CDI,Nantes,04-09-2024,11-09-2024
+29,,Pennylane,Data Scientist,CDI,Nantes,04-09-2024,
+30,3,OnePoint,Data Engineer / Développeur·euse Big Data,CDI,Nantes,06-09-2024,
+31,3,Apside,Data Engineer,CDI,Nantes,08-09-2024,
+32,3,Talan,AI Software Engineer,CDI,Nantes,08-09-2024,11-09-2024
+33,0,SFEIR,Data Scientist,CDI,Nantes,11-09-2024,04-10-2024
+34,0,Capgemini,Data Scientist,CDI,Nantes,11-09-2024,
+35,0,Datadog,Senior Software Engineer - Data Science,CDI,Nantes,02-09-2024,12-09-2024
+36,3,Mosica,Consultant,CDI,Nantes,12-09-2024,
+37,4,Sopra Steria Group,Candidature Spontané,CDI,Nantes,12-09-2024,
+38,0,RCA,DATA ENGINEER / DATA OPS,CDI,Nantes,14-09-2024,16-09-2024
+39,5,BNP Paribas,Data Scientist - Lutte Contre le Blanchiment,VIE,Hong Kong,15-09-2024,
+40,3,Talan,Data Engineer Spark / Scala,CDI,Nantes,15-09-2024,18-09-2024
+41,4,Sopra Steria,Candidature Spontané,CDI,Nantes,15-09-2024,17-09-2024
+42,3,Mosica,DATA ENGINEER - CONFIRMÉ,CDI,Nantes,15-09-2024,
+43,3,Neovity,Data Engineer - Data Ops,CDI,Nantes,15-09-2024,
+44,5,BNP Paribas,Data Scientist - Credit score & Machine learning,VIE,Florence,16-09-2024,20-09-2024
+45,3,Wemoov,Développeur Python,CDI,Nantes,19-09-2024,
+46,3,Adentis,Développeur Python,CDI,Nantes,19-09-2024,24-09-2024
+47,4,Exakis Nelite,Consultant Data,CDI,Toulouse,19-09-2024,
+48,4,Euro-Information,Data Engineer,CDI,Nantes,19-09-2024,02-10-2024
+49,3,Externatic,Developpeur Python IA,CDI,Nantes,19-09-2024,
+50,3,Atos,Developpeur Python et Java,CDI,Nantes,19-09-2024,
+51,3,Pulse,Data Engineer,CDI,Nantes,24-09-2024,25-09-2024
+52,2,Younup,Deveoppeur Python,CDI,Nantes,30-09-2024,
+53,3,Guarani,Développeur Python,CDI,Nantes,30-09-2024,02-10-2024
+54,3,Hunteo,Développeur Python,CDI,Nantes,30-09-2024,22-10-2024
+55,4,Euro-Information,Data Scientist,CDI,Nantes,19-09,02-10-2024
+56,1,LR technologies,Consultant,CDI,Nantes,02-10-2024,
+57,3,Silkhom,Data Engineer,CDI,Nantes,05-10-2024,22-10-2024
+58,6,Seenovate,Consultant Data Science,CDI,Nantes,08-10-2024,
+59,3,Region Nantes,Data Scientist,CDI,Nantes,10-10-2024,
+60,2,U Tech,Data Engineer,CDI,Nantes,10-10-2024,15-10-2024
+61,0,Devoteam A Cloud,Data Engineer,CDI,Nantes,13-10-2024,16-10-2024
+62,0,SFEIR,Data Engineer,CDI,Nantes,13-10-2024,28-10-2024
+63,3,JEMS,Data Engineer,CDI,Nantes,13-10-2024,14-10-2024
+64,3,Sopra Steria,Data Engineer,CDI,Nantes,13-10-2024,16-10-2024
+65,3,Euro-Information,Lead Développeur Python,CDI,Nantes,13-10-2024,21-10-2024
+66,2,YOUNUP,Développeur Python,CDI,Nantes,13-10-2024,
+67,2,Ippon technologies,Data Engineer,CDI,Nantes,15-10-2024,
+68,2,Intescia Group,Data Scientist,CDI,Nantes,15-10-2024,
+69,4,Niji,Consultant Développeur Python,CDI,Nantes,15-10-2024,08-11-2024
+70,0,SFEIR,Data Architect,CDI,Nantes,16-10-2024,28-10-2024
+71,5,MP DATA,Data Scientist,CDI,Nantes,29-10-2024,
+72,2,ASI,Data Engineer,CDI,Nantes,29-10-2024,29-10-2024
+73,3,L'informatique aux Finances publiques,Data Scientist,CDI,Nantes,29-10-2024,
+74,4,SII,Data ingénieur Scala/Sark,CDI,Nantes,29-10-2024,29-10-2024
+75,5,SOCOTEC GESTION,Data Scientist,VIE,Londres,29-10-2024,
+76,0,LivingPackets,Développeur Python,CDI,Nantes,29-10-2024,
+77,2,Valoway,Consultant Data Science,CDI,Nantes,04-11-2024,05-11-2024
+78,4,AMIAD,Ingénieur IA,CDI,Bruz,24-10-2024,06-11-2024
+79,2,Elephant,Développeur Python,CDI,Nantes,08-11-2024
+80,2,Groupe Piment,Développeur Fullstack,CDI,Nantes,08-11-2024
+81,3,Alteca,Data Scientist,CDI,Nantes,08-11-2024,
+82,2,Mixity,Développeur Fullstack & IA,CDI,Nantes,08-11-2024
+83,2,Orange Business,Développeur Django,CDI,Nantes,08-11-2024

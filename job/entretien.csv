@@ -1,0 +1,9 @@
+id_entretien,id_job,date_entretien,type
+0,2,15-07-2024,Présentation
+1,2,22-07-2024,Test technique
+2,4,10-08-2024,Présentation
+3,21,20-08-2024,Présentation
+4,22,28-08-2024,Présentation
+5,69,25-10-2024,Présentation
+6,69,05-11-2024,Test technique
+7,78,06-11-2024,Présentation & Test technique
